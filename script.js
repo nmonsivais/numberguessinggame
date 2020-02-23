@@ -6,3 +6,7 @@ var guess = prompt("Guess a number");
 if (Number(guess) === secretNumber) {
     alert("You guessed my number!");
 }
+
+else if(Number(guess) > 4) {
+    alert("Your guess is too high!");
+}
