@@ -7,6 +7,10 @@ if (Number(guess) === secretNumber) {
     alert("You guessed my number!");
 }
 
-else if(Number(guess) > 4) {
-    alert("Your guess is too high!");
+else if (Number(guess) > 4) {
+    alert("Your guess is too high!  Try again.");
+}
+
+else {
+    alert("Your guess is too low.  Try again.");
 }
