@@ -9,7 +9,7 @@ A simple game where a user enters a number to try to guess the computer's number
 HTML, JavaScript
 
 # Live Link
-[View Page Live](https://nmonsivais.github.io/004jsclubbouncer/)
+[View Page Live](https://nmonsivais.github.io/numberguessinggame/)
 
 # Contact
 [E-Mail](Mailto:nmonsivais@gmail.com) |
